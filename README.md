@@ -5,7 +5,8 @@ Android客户端与以太坊Dapp交互
 
 apk下载
 ------
-    [下载apk点我](https://github.com/YangJ0720/Fomo3D/blob/master/apk/app-debug.apk) 
+
+[下载apk点我](https://github.com/YangJ0720/Fomo3D/blob/master/apk/app-debug.apk)
               
 ## 效果图
 <img src="https://github.com/YangJ0720/Fomo3D/blob/master/gif/fomo3d.gif" width="480" height="800"/>
